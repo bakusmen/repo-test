@@ -1,3 +1,6 @@
+from statistics import linear_regression
+
+
 print('maniek')
 print('drugalini')
-trzecia
+trzecia linear_regression
